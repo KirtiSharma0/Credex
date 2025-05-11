@@ -1,18 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-# 🚀 SoftSell 
-
-> A modern, beautifully animated, and intelligently interactive landing page for product promotion – powered by React, TailwindCSS, and OpenAI.
-
----
-
 ## ✨ Overview
 
 **SoftSell** is a sleek, responsive, and animated product landing page designed to help businesses present their software or service with clarity and style. With fluid transitions, real-time validation, and a built-in LLM-powered chatbot for customer guidance, SoftSell is not just a frontend – it’s a smooth digital experience.
